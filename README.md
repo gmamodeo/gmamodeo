@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmamodeo
 - 👀 I’m interested in policy analysis, business intelligence, machine learning and anything analytically nerdy.
 - 🌱 I’m currently learning Python (from scratch and self-taught) and Julia (it is on my to-do list)
-- 💞️ I’m looking to collaborate on anything really so let me know if you want to work with me
+- 💞️ I’m looking to collaborate with other datascience newbies so let me know if you want to work with me
 - 📫 How to reach me: giovannimaria.amodeo@gmail.com
 
 <!---
